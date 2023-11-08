@@ -11251,29 +11251,26 @@ ${c1}
 EOF
         ;;
 
-        *"[Windows 10]"*|*"on Windows 10"*|"Windows 8"*|\
-        "Windows 10"* |"windows10"|"windows8")
+        *"[Windows 11]"*|*"on Windows 11"*|\
+        "Windows 11"* |"windows11")
             set_colors 6 7
             read -rd '' ascii_data <<'EOF'
-${c1}                                ..,
-                    ....,,:;+ccllll
-      ...,,+:;  cllllllllllllllllll
-,cclllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
+${c1}
+################  ################
+################  ################
+################  ################
+################  ################
+################  ################
+################  ################
+################  ################
 
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-llllllllllllll  lllllllllllllllllll
-`'ccllllllllll  lllllllllllllllllll
-       `' \\*::  :ccllllllllllllllll
-                       ````''*::cll
-                                 ``
+################  ################
+################  ################
+################  ################
+################  ################
+################  ################
+################  ################
+################  ################
 EOF
         ;;
 
